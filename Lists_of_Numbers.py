@@ -10,4 +10,5 @@ def main():
         print("Largest number is,", max(numbers))
         print("The average number is", sum(numbers) / len(numbers))
 
+
 main()
